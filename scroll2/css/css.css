@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.noidung {
+
+}
+
+.giaodien {
+	width: 900px;
+	margin: auto;
+	opacity: 0;
+}
+
+img {
+	width: 100%;
+}
+.khoi {
+	width: 260px;
+	float: left;
+	margin: 20px;
+	text-align: center;
+}
+
+.khoi a {
+	color: black;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+.text {
+	font-size: 15px;
+	color: gray;
+	width: 1000px;
+	margin: auto;
+}
+.animate__pulse {
+	opacity: 1;
+}
